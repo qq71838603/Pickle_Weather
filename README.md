@@ -1,0 +1,4 @@
+# pickle_weather
+用python通过pickle查询天气
+pkl文件中存储了城市编码
+通过字典来对应城市和城市编码
